@@ -14,11 +14,12 @@ Add the following features to the current project:
 ## BONUS ROUND:
 
 Use the documentation here: https://openweathermap.org/forecast5
-Create another button that displays a forecast for the city
-Think about the logic needed to do this. Can it be done with the current
-functions? Do they need to be duplicated?
 
-## OPTIONAL
+Create another button that displays a forecast for the city.
+
+Think about the logic needed to do this. Can it be done with the current functions? Do they need to be duplicated?
+
+## OPTIONAL:
 
 Add the sunset time for the chosen city. It is returned as a Unix timestamp.
 Research how to convert a Unix timestamp to a human-readable time format in JavaScript.

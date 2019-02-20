@@ -1,5 +1,5 @@
 let request = new XMLHttpRequest();
-let APIKEY = "9b6e9334febd361b203e92c066725b28";
+let APIKEY = ""; // Insert API key from openweathermap.org/api between the quotes here
 
 function displayNicely(apiData) {
     apiData = JSON.parse(apiData);
